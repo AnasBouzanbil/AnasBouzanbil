@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhazin" alt="elhazin" /></a> </p>
 
-- 🌱 I’m currently learning **C, c++, bash, js, html, css**
+- 🌱 I’m currently learning **C, c++, js, html, css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Elhazin](https://github.com/Elhazin)
 
