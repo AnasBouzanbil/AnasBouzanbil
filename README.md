@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **python, JavaScript, TypeScript, Nodejs**
 
-- 📝 I regularly write articles on [https://medium.com/@Elhazin](https://medium.com/@Elhazin)
+- 📝 I regularly write articles on [medium](https://medium.com/@Elhazin)
+
+- 📝 I will upload my projects  [here](https://elhazin.vercel.app/)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **abouzanb@student.1337.ma**
 
-- ⚡ Fun fact **I will do anything for fun,or money**
+- ⚡ Fun fact **I will do anything for fun, or money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
