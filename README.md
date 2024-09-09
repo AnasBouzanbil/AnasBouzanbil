@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I will do anything for fun, or money**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">if i do not have problem i solve them here :</h3>
 <p align="left">
 <a href="https://www.leetcode.com/elhazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elhazin" height="30" width="40" /></a>
 </p>
