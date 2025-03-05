@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I will do anything for fun, or money**
 - check [this](http://chesscheat.zapto.org/)
+- check this https://decidebot.vercel.app/
 <h3 align="left">If I do not have problems, I find them and try to solve them here:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/Elhazin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnasBouzanbil" height="30" width="40" /></a>
