@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A software engineering student at 1337school</h3>
+# 👋 Hi there, I'm Anas
 
-- 🌱 I’m currently learning **Python, JavaScript, TypeScript, Node.js, Dart, SQL**
+> "I will do anything for fun, or money"
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Elhazin)
+## 👨‍💻 About Me
 
-- 📝 I will upload my projects [here](https://elhazin.vercel.app/)
+I'm a Software Engineering student passionate about mobile and web development. I love building applications that solve real-world problems and exploring new technologies.
 
-- 💬 Ask me about **Anything**
+## 🚀 Projects
 
-- 📫 How to reach me **abouzanb@student.1337.ma**
+Here are some of my projects:
 
-- ⚡ Fun fact **I will do anything for fun, or money**
-- check [this](http://chesscheat.zapto.org/)
-- check this https://decidebot.vercel.app/
-<h3 align="left">If I do not have problems, I find them and try to solve them here:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/Elhazin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnasBouzanbil" height="30" width="40" /></a>
-</p>
+- [ChessCheat](http://chesscheat.zapto.org/) - A chess assistant tool
+- [HeyTV](https://heytv.sytes.net/) - A streaming platform
+- [DecideBot](https://decidebot.vercel.app/) - A decision-making assistant
+
+*And many more in my repositories!*
+
+## 🔧 Technologies & Tools
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -52,4 +51,22 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasBouzanbil&show_icons=true&locale=en&layout=compact" alt="AnasBouzanbil" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AnasBouzanbil&show_icons=true&locale=en&layout=compact)
+
+## 📝 Articles
+
+I regularly write articles on [Medium](https://medium.com/@AnasBouzanbil) about software development, tech trends, and my learning journey.
+
+## 🧩 Problem Solving
+
+I enjoy solving algorithmic problems on [LeetCode](https://leetcode.com/u/Elhazin/). Feel free to check out my solutions!
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/anasbouzanbil)
+- [Twitter](https://twitter.com/anasbouzanbil)
+- [Medium](https://medium.com/@AnasBouzanbil)
+
+---
+
+⭐️ From [AnasBouzanbil](https://github.com/AnasBouzanbil)
