@@ -1,70 +1,33 @@
-# 👋 Hello World, I'm Anas!
+# Hi, I'm Anas 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Anas+Bouzanbil;Full+Stack+Developer;Mobile+Developer;Problem+Solver;Tech+Enthusiast;Coder" alt="Typing SVG" />
-</div>
+I build web and mobile apps, and work on C and C++ projects.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+My projects range from real-time music sharing and web applications to Unix tools, games, and programming exercises.
 
-## 💫 About Me
+## Featured projects
 
-> *"I will do anything for fun, or money"*
+| Project | What it does | Main tools |
+| --- | --- | --- |
+| [listenIfy / MusicRoom](https://github.com/AnasBouzanbil/listenIfy) | A team project for shared music rooms and collaborative playlists. | Flutter, Java, Spring Boot, PostgreSQL |
+| [Swifty Companion](https://github.com/AnasBouzanbil/Swifty-Companion) | A mobile app for exploring 42 student profiles, campuses, and projects. | Flutter, Dart, 42 API |
+| [Matcha](https://github.com/AnasBouzanbil/Matcha) | A dating and networking app built around shared interests. Currently in development. | Next.js, TypeScript, Express, PostgreSQL |
 
-I'm a passionate developer with a knack for turning ideas into reality through code. Whether it's for an exciting project or a challenging problem, I bring creativity, technical expertise, and a results-oriented mindset.
+## More of my work
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MjYwYzM4NzdkOGYwYzIxODQxZDY5NWU1NzYxOGMxZjRkYTZkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- [C projects](https://github.com/AnasBouzanbil/C_Programming_Projects) — minishell, games, threads, and algorithms.
+- [ft_ls](https://github.com/AnasBouzanbil/ft_ls) — my implementation of the Unix `ls` command in C.
+- [Inception](https://github.com/AnasBouzanbil/inception) — Docker containers for Nginx, WordPress, and MariaDB.
+- [JavaScript and TypeScript projects](https://github.com/AnasBouzanbil/JS_TS_Projects) — web projects and experiments.
 
-### 🚀 Quick Facts
+## Tools I work with
 
-- 🔭 I'm currently working on exciting projects that challenge the status quo
-- 🌱 Learning is my superpower - constantly expanding my tech stack
-- 👯 Always open to collaborate on innovative projects
-- 💬 Ask me about anything tech-related
-- ⚡ the moon is beautiful. isn't it?
+**Web:** JavaScript, TypeScript, React, Next.js, Node.js, Express  
+**Mobile:** Flutter, Dart, React Native  
+**Backend and systems:** C, C++, Java, Spring Boot, PostgreSQL  
+**Development:** Git, Docker
 
-## 🛠️ Tech Stack
+## Connect with me
 
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Git](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)
-  ![Git](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor==white)
-  ![Git](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-</div>
+[Portfolio](https://anasbouzanbil.me) · [LinkedIn](https://www.linkedin.com/in/anas-bouzanbil/) · [Email](mailto:anassbouznbil@gmail.com) · [Medium](https://medium.com/@Elhazin)
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anas-bouzanbil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anassbouznbil@gmail.comm" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://anasbouzanbil.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-    <a href="https://medium.com/@Elhazin" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium.com" />
-  </a>
-
-
-
-
-  
-</div>
-
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+*The moon is beautiful, isn't it?*
